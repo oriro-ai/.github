@@ -1,4 +1,4 @@
-![ORIRO.ai — Many Minds. One Platform. Always Free.](profile/banner.png)
+![ORIRO.ai — Many Minds. One Platform. Always Free.](https://raw.githubusercontent.com/oriro-ai/.github/main/profile/banner.png)
 
 ## ORIRO.ai
 
